@@ -15,6 +15,7 @@ O conteúdo foi produzido com auxílio de IA e ferramentas visuais para tornar o
 ## 🧩 Tecnologias Utilizadas
 - ChatGPT (OpenAI) — geração de conteúdo textual e exemplos de código  
 - Gamma.ai — design e formatação visual do eBook  
+- GitHub — versionamento e portfólio do projeto
 
 ---
 
@@ -25,7 +26,17 @@ O conteúdo foi produzido com auxílio de IA e ferramentas visuais para tornar o
 
 ## 📗 Ebook
 - [Ebook: Suba de Nível no Mundo da Tecnologia](ebook/Ebook-Suba-de-Nivel-no-Mundo-da-Tecnologia.pdf)
-- 
+
+---
+
+## ✍️ Prompts Utilizados
+- [Prompts Utilizados](prompts/prompts-utilizados.md)
+
+---
+
+## 📄 Artigo Relacionado
+- [Feito com Gamma.ai](https://gamma.app/?utm_source=made-with-gamma)
+
 ---
 
 ## 💡 Créditos
