@@ -20,7 +20,7 @@ O conteúdo foi produzido com auxílio de IA e ferramentas visuais para tornar o
 ---
 
 ## 🖼️ Capa do eBook
-![Capa do Ebook](assets/capa.png)
+![Capa do Ebook](assets/capa.png.png)
 
 ---
 
