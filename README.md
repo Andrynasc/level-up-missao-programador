@@ -25,7 +25,7 @@ O conteúdo foi produzido com auxílio de IA e ferramentas visuais para tornar o
 ---
 
 ## 📗 Ebook
-- [Ebook: Suba de Nível no Mundo da Tecnologia](ebook/Ebook-Suba-de-Nivel-no-Mundo-da-Tecnologia.pdf)
+- [Ebook: Suba de Nível no Mundo da Tecnologia](ebook/levelup.pdf)
 
 ---
 
